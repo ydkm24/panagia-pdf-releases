@@ -28,6 +28,12 @@
 
 ## Install
 
+<p>
+  <a href="https://github.com/ydkm24/panagia-pdf-releases/releases/latest">
+    <img src="assets/download-now.svg" alt="Download Panagia.pdf latest Windows installer" width="560" />
+  </a>
+</p>
+
 1. Open the [latest release](https://github.com/ydkm24/panagia-pdf-releases/releases/latest).
 2. Download `Panagia.pdf_Setup.exe`.
 3. Run the installer.
