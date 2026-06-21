@@ -1,0 +1,3 @@
+Copyright (c) Panagia.pdf. All rights reserved.
+
+This repository contains release metadata and installer distribution files. The application source code is not included in this repository.

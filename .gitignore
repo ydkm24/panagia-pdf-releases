@@ -1,0 +1,24 @@
+# Installer binaries are release assets, not git files
+*.exe
+*.msi
+*.zip
+*.7z
+
+# local/generated
+dist/
+build/
+release-temp/
+*.log
+*.tmp
+
+# secrets
+.env
+*.key
+*.pem
+*token*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

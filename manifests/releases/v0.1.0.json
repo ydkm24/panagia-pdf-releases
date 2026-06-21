@@ -1,0 +1,14 @@
+{
+  "app": "Panagia.pdf",
+  "channel": "stable",
+  "version": "0.1.0",
+  "release_date": "2026-06-21",
+  "installer": {
+    "filename": "Panagia.pdf_Setup.exe",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/panagia-pdf-releases/releases/download/v0.1.0/Panagia.pdf_Setup.exe",
+    "sha256": "d3b93dd3bb70a7690728b738468b2a9ebb47dcd978a061380fd0483a62edaa09",
+    "size_bytes": 274672086
+  },
+  "minimum_windows_version": "10",
+  "notes_url": "https://github.com/YOUR_GITHUB_USERNAME/panagia-pdf-releases/releases/tag/v0.1.0"
+}
