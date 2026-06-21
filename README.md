@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Panagia.pdf banner" width="100%" />
-</p>
-
 <h1 align="center">Panagia.pdf</h1>
 
 <p align="center">
@@ -92,41 +88,27 @@ Translate a short text passage or a single image without creating a full book pr
 
 ## App Preview
 
-### Dashboard
-
-<img src="assets/screenshots/dashboard.jpg" alt="Panagia.pdf dashboard" width="100%" />
-
-### PDF Translator
-
-<img src="assets/screenshots/pdf-translator.jpg" alt="Panagia.pdf PDF Translator" width="100%" />
-
-### My Projects
-
-<img src="assets/screenshots/my-projects.jpg" alt="Panagia.pdf My Projects" width="100%" />
-
-### Global Library
-
-<img src="assets/screenshots/global-library.jpg" alt="Panagia.pdf Global Library" width="100%" />
-
-### Social Hub
-
-<img src="assets/screenshots/social-hub.jpg" alt="Panagia.pdf Social Hub" width="100%" />
-
-### Export Hub
-
-<img src="assets/screenshots/export-hub.jpg" alt="Panagia.pdf Export Hub" width="100%" />
-
-### Quick Translate
-
-<img src="assets/screenshots/quick-translate.jpg" alt="Panagia.pdf Quick Translate" width="100%" />
-
-### Profile
-
-<img src="assets/screenshots/profile-combined.jpg" alt="Panagia.pdf Profile" width="100%" />
-
-### Settings
-
-<img src="assets/screenshots/settings.jpg" alt="Panagia.pdf Settings" width="100%" />
+<table>
+<tr>
+<td width="50%" align="center"><strong>Dashboard</strong><br><img src="assets/screenshots/dashboard.jpg" alt="Panagia.pdf Dashboard" width="100%" /></td>
+<td width="50%" align="center"><strong>PDF Translator</strong><br><img src="assets/screenshots/pdf-translator.jpg" alt="Panagia.pdf PDF Translator" width="100%" /></td>
+</tr>
+<tr>
+<td width="50%" align="center"><strong>My Projects</strong><br><img src="assets/screenshots/my-projects.jpg" alt="Panagia.pdf My Projects" width="100%" /></td>
+<td width="50%" align="center"><strong>Global Library</strong><br><img src="assets/screenshots/global-library.jpg" alt="Panagia.pdf Global Library" width="100%" /></td>
+</tr>
+<tr>
+<td width="50%" align="center"><strong>Social Hub</strong><br><img src="assets/screenshots/social-hub.jpg" alt="Panagia.pdf Social Hub" width="100%" /></td>
+<td width="50%" align="center"><strong>Export Hub</strong><br><img src="assets/screenshots/export-hub.jpg" alt="Panagia.pdf Export Hub" width="100%" /></td>
+</tr>
+<tr>
+<td width="50%" align="center"><strong>Quick Translate</strong><br><img src="assets/screenshots/quick-translate.jpg" alt="Panagia.pdf Quick Translate" width="100%" /></td>
+<td width="50%" align="center"><strong>Settings</strong><br><img src="assets/screenshots/settings.jpg" alt="Panagia.pdf Settings" width="100%" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><strong>Profile</strong><br><img src="assets/screenshots/profile-combined.jpg" alt="Panagia.pdf Profile" width="100%" /></td>
+</tr>
+</table>
 
 ---
 
