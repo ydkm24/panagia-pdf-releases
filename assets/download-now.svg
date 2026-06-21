@@ -1,0 +1,14 @@
+<svg width="760" height="128" viewBox="0 0 760 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-10%" y="-30%" width="120%" height="170%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect x="4" y="8" width="752" height="112" rx="18" fill="#FFD23F" filter="url(#shadow)"/>
+  <path d="M78 31v43m0 0 18-18M78 74 60 56M49 88h58" stroke="#050505" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="154" y="61" fill="#050505" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="35" font-weight="900" letter-spacing="2">DOWNLOAD NOW</text>
+  <text x="156" y="88" fill="#1A1600" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="7">LATEST WINDOWS DESKTOP APP</text>
+  <text x="570" y="76" text-anchor="middle" fill="#050505" font-family="Segoe UI Emoji,Apple Color Emoji,Noto Color Emoji,sans-serif" font-size="42"></text>
+  <text x="630" y="76" text-anchor="middle" fill="#050505" font-family="Segoe UI Emoji,Apple Color Emoji,Noto Color Emoji,sans-serif" font-size="42">⊞</text>
+  <text x="690" y="76" text-anchor="middle" fill="#050505" font-family="Segoe UI Emoji,Apple Color Emoji,Noto Color Emoji,sans-serif" font-size="42">🐧</text>
+</svg>

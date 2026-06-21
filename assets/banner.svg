@@ -1,0 +1,36 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070A"/>
+      <stop offset="0.55" stop-color="#0E1714"/>
+      <stop offset="1" stop-color="#111307"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(860 110) rotate(142) scale(470 260)">
+      <stop stop-color="#FFD23F" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#FFD23F" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="34" fill="url(#glow)"/>
+  <g opacity="0.25">
+    <path d="M0 335C150 276 261 374 412 317C563 260 645 151 822 183C999 215 1082 119 1200 72" stroke="#FFD23F" stroke-width="2"/>
+    <path d="M0 363C176 299 256 391 420 343C584 295 662 203 812 225C962 247 1062 172 1200 138" stroke="#2CF58A" stroke-width="1.2"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="72" y="70" width="1056" height="280" rx="28" fill="#0B0F12" fill-opacity="0.84" stroke="#27312B"/>
+  </g>
+  <text x="105" y="143" fill="#FFD23F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="5">PANAGIA.PDF</text>
+  <text x="103" y="212" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="900">Bilingual book translation</text>
+  <text x="105" y="262" fill="#B8C4BC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500">Native Windows installer • PDF reading • AI translation • Cloud publishing</text>
+  <g transform="translate(105 294)">
+    <rect width="180" height="42" rx="21" fill="#FFD23F"/>
+    <text x="90" y="28" text-anchor="middle" fill="#070707" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="900">DOWNLOAD</text>
+  </g>
+  <g transform="translate(904 116)" opacity="0.95">
+    <rect width="142" height="142" rx="26" fill="#FFD23F"/>
+    <text x="71" y="91" text-anchor="middle" fill="#070707" font-family="Inter,Segoe UI Emoji,Arial,sans-serif" font-size="62" font-weight="900">📚</text>
+  </g>
+</svg>
