@@ -9,8 +9,8 @@
   "installer": {
     "filename": "Panagia.pdf_Setup.exe",
     "url": "https://github.com/ydkm24/panagia-pdf-releases/releases/download/v1.0/Panagia.pdf_Setup.exe",
-    "sha256": "d3b93dd3bb70a7690728b738468b2a9ebb47dcd978a061380fd0483a62edaa09",
-    "size_bytes": 274672086
+    "sha256": "fe6a14e51de3e79b3f9bf36286f5ead7bcea1dc2cad55edf4f884e9d1c81f3ef",
+    "size_bytes": 274027355
   },
   "frontend": {
     "version": "1.0",
